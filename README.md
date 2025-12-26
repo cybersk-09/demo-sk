@@ -1,4 +1,4 @@
 # demo-sk
 this is my first git repository.
 <br>
-Author- Sanket Kumar
+Author- Sanket Kumar (sk)
